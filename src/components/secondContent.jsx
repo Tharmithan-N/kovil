@@ -4,7 +4,7 @@ import muruga from "../assets/images/muruga.jpg"
 const SecondComponent = () => {
     return(
         <div className="bg-[#ecfdfb]">
-            <div className="pt-[100px] 2xl:ml-[8%] 2xl:mr-[8%]">
+            <div className="py-[90px] 2xl:ml-[8%] 2xl:mr-[8%]">
             <div className="flex">
                 <div className="text-[41px] text-[#1a2431] font-[700] leading-[50px] w-1/2">Serving the needs of the Hindu Community</div>
                 <div className="text-[17px] font-[300] text-[#303030] w-1/2">Posuere tellus imperdet facl. Curabitur viverra faucibusy tellus, semper nunc finibus placerat. Suspendi potenti. Praese vesem sem vulputate interdum placerat diam quis nisi porta vitaeves tibulum neque cursus gravida sed sed metus.</div>
